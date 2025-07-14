@@ -12,7 +12,7 @@ This is a simple counter application built using **React**, **Redux**, and **Typ
 - **Redux Toolkit** (`@reduxjs/toolkit`)
 - **React-Redux**
 - **TypeScript**
-- **Vite** (or Create React App – adjust accordingly)
+- **Vite** 
 
 ---
 
