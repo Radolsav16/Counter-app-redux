@@ -15,3 +15,5 @@ This is a simple counter application built using **React**, **Redux**, and **Typ
 - **Vite** (or Create React App – adjust accordingly)
 
 ---
+
+![CounterApp][./public/counter-project.png]
